@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37906.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rowad.ITAM.API", "Rowad.ITAM.API\Rowad.ITAM.API.csproj", "{110E1827-7D3C-4EF7-B3DD-C3160AF0C93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rowad.ITAM.Domain", "Rowad.ITAM.Domain\Rowad.ITAM.Domain.csproj", "{20267949-C1AF-4357-A770-A6D7166F774F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rowad.ITAM.Application", "Rowad.ITAM.Application\Rowad.ITAM.Application.csproj", "{83FFB7E9-2C5A-4888-83F7-C0FD0CC2167C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rowad.ITAM.Infrastruture", "Rowad.ITAM.Infrastruture\Rowad.ITAM.Infrastruture.csproj", "{4C9E83F1-3E34-4BC8-971F-964AF8F2D7C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E1827-7D3C-4EF7-B3DD-C3160AF0C93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110E1827-7D3C-4EF7-B3DD-C3160AF0C93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110E1827-7D3C-4EF7-B3DD-C3160AF0C93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110E1827-7D3C-4EF7-B3DD-C3160AF0C93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20267949-C1AF-4357-A770-A6D7166F774F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20267949-C1AF-4357-A770-A6D7166F774F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20267949-C1AF-4357-A770-A6D7166F774F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20267949-C1AF-4357-A770-A6D7166F774F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FFB7E9-2C5A-4888-83F7-C0FD0CC2167C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FFB7E9-2C5A-4888-83F7-C0FD0CC2167C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FFB7E9-2C5A-4888-83F7-C0FD0CC2167C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FFB7E9-2C5A-4888-83F7-C0FD0CC2167C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9E83F1-3E34-4BC8-971F-964AF8F2D7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9E83F1-3E34-4BC8-971F-964AF8F2D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9E83F1-3E34-4BC8-971F-964AF8F2D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9E83F1-3E34-4BC8-971F-964AF8F2D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FB42AE-5FC9-475E-8EDA-FEF971E88D1E}
+	EndGlobalSection
+EndGlobal
